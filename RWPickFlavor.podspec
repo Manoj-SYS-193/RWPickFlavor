@@ -14,7 +14,7 @@ s.version = "0.1.1"
 s.license = { :type => "MIT", :file => "LICENSE" }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "Keegan Rush" => "keeganrush@gmail.com" }
+s.author = { "manoj kumar" => "manoj.kumar@sysfore.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
 s.homepage = "https://github.com/TheCodedSelf/RWPickFlavor"
