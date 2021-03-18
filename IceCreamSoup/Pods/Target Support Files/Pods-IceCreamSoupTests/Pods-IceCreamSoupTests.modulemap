@@ -1,0 +1,6 @@
+framework module Pods_IceCreamSoupTests {
+  umbrella header "Pods-IceCreamSoupTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
