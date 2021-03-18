@@ -6,7 +6,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Choose The Below Flavor-->
+        <!--Choose From The Below Flavor-->
         <scene sceneID="B30-iQ-vu8">
             <objects>
                 <viewController storyboardIdentifier="PickFlavorViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="UVM-0Q-4W9" customClass="PickFlavorViewController" sceneMemberID="viewController">
@@ -139,7 +139,7 @@
                         </constraints>
                     </view>
                     <extendedEdge key="edgesForExtendedLayout"/>
-                    <navigationItem key="navigationItem" title="Choose The Below Flavor" id="s0K-Qv-2Qg"/>
+                    <navigationItem key="navigationItem" title="Choose From The Below Flavor" id="s0K-Qv-2Qg"/>
                     <connections>
                         <outlet property="collectionView" destination="zft-ym-2ni" id="tcB-zS-cg6"/>
                         <outlet property="contentView" destination="HDe-ty-26z" id="W6h-C5-R5I"/>
